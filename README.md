@@ -20,5 +20,5 @@ Desafios em Javascript do Bootcamp de Lógica de Programação da Digital Innova
 | Gerenciamento de Itens Mágicos |[🔗](https://github.com/Thaina-Oliveira/dio-desafios-logica-de-programacao/tree/main/Gerenciamento%20de%20Itens%20M%C3%A1gicos)|
 | Jornada do Herói |[🔗](https://github.com/Thaina-Oliveira/dio-desafios-logica-de-programacao/tree/main/Jornada%20do%20Her%C3%B3i)|
 | Nível do Herói |[🔗](https://github.com/Thaina-Oliveira/dio-desafios-logica-de-programacao/tree/main/N%C3%ADvel%20do%20Her%C3%B3i)|
-|Pontos de Experiência [🔗](https://github.com/Thaina-Oliveira/dio-desafios-logica-de-programacao/tree/main/Pontos%20de%20Experiencia)|
+|Pontos de Experiência | [🔗](https://github.com/Thaina-Oliveira/dio-desafios-logica-de-programacao/tree/main/Pontos%20de%20Experiencia)|
 
